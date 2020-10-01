@@ -4,7 +4,7 @@
     "description": "A plugin for logger-nodejs that allows you to send messages of your choice to slack",
     "main": "src/index.js",
     "dependencies": {
-        "axios": "0.18.0"
+        "axios": "0.20.0"
     },
     "repository": {
         "type": "git",
